@@ -14,5 +14,5 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 
 news
 ====
-* 04-April-2020 - I'm a published scientist now! My first ever paper "It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations" has been accepted to ACL 2020!
+* 04-April-2020 - My first paper ever has been accepted to ACL 2020!
 * 05-Aug-2019 - First day in the life of a CS PhD student!
