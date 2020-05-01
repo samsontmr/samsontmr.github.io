@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# 2020
 
-{% include base_path %}
+**It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations**  <br>
+**Samson Tan**, Shafiq Joty, Min-Yen Kan, Richard Socher <br>
+In _Proceedings of 58th Annual Meeting of the Association for Computational Linguistics (Long Paper)_ <br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Mind Your Inflections! Improving NLP for Non-Standard English with Base-Inflection Encoding**  <br>
+**Samson Tan**, Shafiq Joty, Lav R. Varshney, Min-Yen Kan <br>
+_arXiv e-print_ <br>
+[Paper](https://arxiv.org/abs/2004.14870)
