@@ -14,6 +14,7 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 
 news
 ====
+* 14-Sep-2020 - Our paper on Base-Inflection Encoding has been accepted to EMNLP 2020!
 * 05-Aug-2020 - Received a Research Achievement Award from the School of Computing!
 * 04-Apr-2020 - My first paper ever has been accepted to ACL 2020!
 * 05-Aug-2019 - First day in the life of a CS PhD student!
