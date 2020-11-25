@@ -10,7 +10,7 @@ author_profile: true
 **[Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding]()**  <br>
 Samson Tan, Shafiq Joty, Lav R. Varshney, Min-Yen Kan <br>
 In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (Long Paper)_. EMNLP 2020. <br>
-[Paper](https://arxiv.org/abs/2004.14870) | Code
+[Paper](https://arxiv.org/abs/2004.14870) | [Video](https://slideslive.com/38938886/mind-your-inflections-improving-nlp-for-nonstandard-englishes-with-baseinflection-encoding) | [Code](https://github.com/salesforce/bite)
 
 **[It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations]()**  <br>
 Samson Tan, Shafiq Joty, Min-Yen Kan, Richard Socher <br>
