@@ -15,6 +15,7 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 news
 ====
 * 3-Feb-2021 - I will be part of the ACL 2021 Ethics Review Committee!
+* 5-Jan-2021 - My research was featured in the National Research Foundation's [Research, Innovation and Enterprise 2025](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base) handbook!
 * 14-Sep-2020 - Our paper on Base-Inflection Encoding has been accepted to EMNLP 2020!
 * 05-Aug-2020 - Received a Research Achievement Award from the School of Computing!
 * 04-Apr-2020 - My first paper ever has been accepted to ACL 2020!
