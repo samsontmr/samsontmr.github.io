@@ -5,13 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2020
+# 2021
+
+
+
+**[Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots]()**  <br>
+**Samson Tan**, Shafiq Joty <br>
+In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Paper)_. NAACL-HLT 2021. <br>
+[Paper](https://openreview.net/forum?id=Dqj-Ou60fg0) | Code
 
 **[Robustness Gym: Unifying the NLP Evaluation Landscape]()**  <br>
-Karan Goel, Nazneen Rajani, Jesse Vig, **Samson Tan**, Jason Wu, Stephan Zheng, Caiming Xiong, Mohit Bansal, Christopher Ré
+Karan Goel, Nazneen Rajani, Jesse Vig, **Samson Tan**, Jason Wu, Stephan Zheng, Caiming Xiong, Mohit Bansal, Christopher Ré <br>
 _arXiv e-print_. <br>
 [Paper](https://arxiv.org/abs/2101.04840) | [Code](https://github.com/robustness-gym/robustness-gym)
 
+# 2020
 
 **[Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding]()**  <br>
 **Samson Tan**, Shafiq Joty, Lav R. Varshney, Min-Yen Kan <br>
