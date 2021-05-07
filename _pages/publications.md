@@ -7,12 +7,16 @@ author_profile: true
 
 # 2021
 
+**[Reliability Testing for Natural Language Processing Systems]()**  <br>
+**Samson Tan**, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan <br>
+In _Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Theme Paper)_. ACL-IJCNLP 2021. <br>
+[Paper](https://openreview.net/forum?id=7ZL84tVlHZN)
 
 
 **[Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots]()**  <br>
 **Samson Tan**, Shafiq Joty <br>
 In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Paper)_. NAACL-HLT 2021. <br>
-[Paper](https://openreview.net/forum?id=Dqj-Ou60fg0) | Code
+[Paper](https://openreview.net/forum?id=Dqj-Ou60fg0) | [Code](https://github.com/salesforce/adversarial-polyglots)
 
 **[Robustness Gym: Unifying the NLP Evaluation Landscape]()**  <br>
 Karan Goel, Nazneen Rajani, Jesse Vig, **Samson Tan**, Jason Wu, Stephan Zheng, Caiming Xiong, Mohit Bansal, Christopher Ré <br>
