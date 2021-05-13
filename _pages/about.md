@@ -24,4 +24,5 @@ news
 * 14-Sep-2020 - Our paper on Base-Inflection Encoding has been accepted to EMNLP 2020!
 * 05-Aug-2020 - Received a Research Achievement Award from the School of Computing!
 * 04-Apr-2020 - My first paper ever (on linguistic biases and robustness to inflectional variation) has been accepted to ACL 2020!
+* 04-Jan-2020 - My research on robustness and biases was featured in an [AI Singapore](https://www.aisingapore.org/2020/06/helping-machines-to-understand-human-language-better) article!
 * 05-Aug-2019 - First day in the life of a CS PhD student!
