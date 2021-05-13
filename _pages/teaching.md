@@ -13,5 +13,5 @@ author_profile: true
 * Zijin Kong (Undergraduate Dissertation on Sign Language Processing, 2020--2021, NUS)
 
 # Teaching
-CS1020 Data Structures and Algorithms I, Aug--Nov 2018
-CS2030 Programming Methodology II, Aug--Nov 2018
+* CS1020 Data Structures and Algorithms I, Aug--Nov 2018
+* CS2030 Programming Methodology II, Aug--Nov 2018
