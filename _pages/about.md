@@ -17,7 +17,7 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 news
 ====
 * 5-May-2021 - Our [theme paper on reliability testing for NLP](https://openreview.net/forum?id=7ZL84tVlHZN) has been accepted to ACL-IJCNLP 2021 (main conference) with a nomination for the best paper award!
-* 24-Apr-2021 - I will be co-chairing the Tokenization Working Group in the BigScience project with Benoît Sagot!
+* 24-Apr-2021 - I will be co-chairing the Tokenization Working Group in the BigScience project with [Benoît Sagot](http://alpage.inria.fr/~sagot)!
 * 10-Mar-2021 - Our [long paper on adversarial code-mixing](https://openreview.net/forum?id=Dqj-Ou60fg0) has been accepted to NAACL-HLT 2021!
 * 3-Feb-2021 - I will be part of the ACL 2021 Ethics Review Committee and Program Committee (Ethics in NLP)!
 * 5-Jan-2021 - My research was featured in the National Research Foundation's [Research, Innovation and Enterprise 2025](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base) handbook!
