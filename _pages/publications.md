@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2021
+## 2021
 
 **[Reliability Testing for Natural Language Processing Systems]()**  <br>
 **Samson Tan**, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan <br>
@@ -23,7 +23,7 @@ Karan Goel, Nazneen Rajani, Jesse Vig, **Samson Tan**, Jason Wu, Stephan Zheng, 
 _arXiv e-print_. <br>
 [Paper](https://arxiv.org/abs/2101.04840) | [Code](https://github.com/robustness-gym/robustness-gym)
 
-# 2020
+## 2020
 
 **[Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding]()**  <br>
 **Samson Tan**, Shafiq Joty, Lav R. Varshney, Min-Yen Kan <br>
@@ -34,3 +34,8 @@ In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language 
 **Samson Tan**, Shafiq Joty, Min-Yen Kan, Richard Socher <br>
 In _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Long Paper)_. ACL 2020. <br>
 [Paper](https://www.aclweb.org/anthology/2020.acl-main.263/) | [Blog](https://blog.einstein.ai/its-morphin-time-combating-linguistic-discrimination-with-inflectional-perturbations/) | [Video](https://slideslive.com/38928803/its-morphin-time-combating-linguistic-discrimination-with-inflectional-perturbations) | [Code](https://github.com/salesforce/morpheus)
+
+
+# Media Coverage
+* [Despite challenges, Salesforce says chatbot adoption is accelerating](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating) | VentureBeat (2021)
+* [Building human-like chatbots with empathy](https://omny.fm/shows/money-fm-893/building-human-like-chatbots-with-empathy) | Money FM 89.3 (2020)
