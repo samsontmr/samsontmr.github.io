@@ -37,5 +37,6 @@ In _Proceedings of the 58th Annual Meeting of the Association for Computational 
 
 
 # Media Coverage
-* [Despite challenges, Salesforce says chatbot adoption is accelerating](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating), _VentureBeat_. 2021.
-* [Building human-like chatbots with empathy](https://omny.fm/shows/money-fm-893/building-human-like-chatbots-with-empathy), _Money FM 89.3_. 2020.
+* [The race to understand the exhilarating, dangerous world of language AI](https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project). _MIT Technology Review_. 2021. (BigScience)
+* [Despite challenges, Salesforce says chatbot adoption is accelerating](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating). _VentureBeat_. 2021. (Reliability Testing)
+* [Building human-like chatbots with empathy](https://omny.fm/shows/money-fm-893/building-human-like-chatbots-with-empathy). _Money FM 89.3_. 2020. (Dialects/Language Variation)
