@@ -14,6 +14,8 @@ Before embarking on my PhD journey, I graduated from the Computer Science and Un
 
 Outside of work, I read widely (my brain loves it, my eyes hate it), especially in philosophy, psychology, and physics. I've also been practising Chinese martial arts for a while now and just started teaching myself the piano!
 
+[My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view)
+
 news
 ====
 * 20-May-2021 - Our [work on reliability testing](https://openreview.net/forum?id=7ZL84tVlHZN) was mentioned in [VentureBeat](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating)!
