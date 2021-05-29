@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD candidate at the National University of Singapore and Salesforce Research, supervised by Assoc Prof Kan Min-Yen and Asst Prof Shafiq Joty. My research interests include inclusive NLP, adversarial robustness, and methods for ethical AI development (both technical and policy); but I've also been fascinated by the puzzle of cognition for the longest time. I'm extremely fortunate to be supported by Singapore's Economic Development Board and Salesforce under the [Industrial Postgraduate Programme](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base).
+I am a final year CS PhD candidate at the National University of Singapore and Salesforce Research, supervised by Assoc Prof Kan Min-Yen and Asst Prof Shafiq Joty. My research interests include inclusive NLP, adversarial robustness, and methods for ethical AI development (both technical and policy); but I've also been fascinated by the puzzle of cognition for the longest time. I'm extremely fortunate to be supported by Singapore's Economic Development Board and Salesforce under the [Industrial Postgraduate Programme](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base).
 
 Before embarking on my PhD journey, I graduated from the Computer Science and University Scholars Programme at NUS and interned for half a year as a product manager for a conversational AI platform in the SF Bay Area.
 
