@@ -40,6 +40,8 @@ In _Proceedings of the 58th Annual Meeting of the Association for Computational 
 * [The race to understand the exhilarating, dangerous world of language AI](https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project). _MIT Technology Review_. 2021. (BigScience)
 * [Un projet géant pour faire parler une intelligence artificielle, et faire mieux que Google.](https://www.lemonde.fr/sciences/article/2021/05/04/un-projet-geant-pour-faire-parler-une-intelligence-artificielle-et-faire-mieux-que-google_6079004_1650684.html) _Le Monde_. 2021. (BigScience)
 * [Despite challenges, Salesforce says chatbot adoption is accelerating](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating). _VentureBeat_. 2021. (Reliability Testing)
-* [Research, Innovation and Enterprise 2025 Plan](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base). _National Research Foundation_. 2021.
-* [Building human-like chatbots with empathy](https://omny.fm/shows/money-fm-893/building-human-like-chatbots-with-empathy). _Money FM 89.3_. 2020. (Dialects/Language Variation)
-* [Helping machines to understand human language better](https://aisingapore.org/2020/06/helping-machines-to-understand-human-language-better). _AI Singapore_. 2020. (Robustness/Biases)
+* [Salesforce Research wields AI to study medicine, economics, and speech.](https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech). _VentureBeat_. 2021. (Ethics)
+* [Salesforce researchers release framework to test NLP model robustness.](https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness). _VentureBeat_. 2021. (Robustness)
+* [Research, Innovation and Enterprise 2025 Plan](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base). _National Research Foundation_. 2021. (Adversarial Robustness / Language Variation)
+* [Building human-like chatbots with empathy](https://omny.fm/shows/money-fm-893/building-human-like-chatbots-with-empathy). _Money FM 89.3_. 2020. (Dialects / Language Variation)
+* [Helping machines to understand human language better](https://aisingapore.org/2020/06/helping-machines-to-understand-human-language-better). _AI Singapore_. 2020. (Robustness / Biases)
