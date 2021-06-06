@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year CS PhD candidate at the National University of Singapore and Salesforce Research, supervised by Assoc Prof Kan Min-Yen and Asst Prof Shafiq Joty. My research interests include inclusive NLP, adversarial robustness, and methods for ethical AI development (both technical and policy); but I've also been fascinated by the puzzle of cognition for the longest time. I'm extremely fortunate to be supported by Singapore's Economic Development Board and Salesforce under the [Industrial Postgraduate Programme](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base).
+I am a final year CS PhD candidate at the National University of Singapore and Salesforce Research, supervised by Assoc Prof Kan Min-Yen and Asst Prof Shafiq Joty. My research interests include linguistic variation, adversarial robustness, and methods for ethical AI development (both technical and policy); but I've also been fascinated by the puzzle of cognition for the longest time. I'm extremely fortunate to be supported by Singapore's Economic Development Board and Salesforce under the [Industrial Postgraduate Programme](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base), and split my time between the [Web IR / NLP Group](https://wing.comp.nus.edu.sg) at NUS and Salesforce Research.
 
-Before embarking on my PhD journey, I graduated from the Computer Science and University Scholars Programme at NUS and interned for half a year as a product manager for a conversational AI platform in the SF Bay Area.
+Before embarking on my PhD journey, I graduated from the Computer Science and University Scholars Programme at NUS and interned for half a year as a product manager for SAP Conversational AI in the SF Bay Area.
 
 Outside of work, I read widely (my brain loves it, my eyes hate it), especially in philosophy, psychology, and physics. I've also been practising Chinese martial arts for a while now and just started teaching myself the piano!
 
@@ -21,7 +21,7 @@ news
 * 20-May-2021 - Our [work on reliability testing](https://openreview.net/forum?id=7ZL84tVlHZN) was mentioned in [VentureBeat](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating)!
 * 5-May-2021 - Our [theme paper on reliability testing for NLP](https://openreview.net/forum?id=7ZL84tVlHZN) has been accepted to ACL-IJCNLP 2021 (main conference) with a nomination for the best paper award!
 * 24-Apr-2021 - I will be co-chairing the Tokenization Working Group in the [BigScience project](bigscience.huggingface.co) with [Benoît Sagot](http://alpage.inria.fr/~sagot)!
-* 10-Mar-2021 - Our [long paper on adversarial code-mixing](https://openreview.net/forum?id=Dqj-Ou60fg0) has been accepted to NAACL-HLT 2021!
+* 10-Mar-2021 - Our [long paper on adversarial code-mixing](https://openreview.net/forum?id=Dqj-Ou60fg0) has been accepted to NAACL-HLT 2021 and the Rising Stars Track of CALCS 2021!
 * 3-Feb-2021 - I will be part of the ACL 2021 Ethics Review Committee and Program Committee (Ethics in NLP)!
 * 5-Jan-2021 - My research was featured in the National Research Foundation's [Research, Innovation and Enterprise 2025](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base) handbook!
 
