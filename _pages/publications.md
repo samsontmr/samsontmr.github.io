@@ -9,14 +9,14 @@ author_profile: true
 
 **[Reliability Testing for Natural Language Processing Systems]()**  <br>
 **Samson Tan**, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan <br>
-In _Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Theme Paper)_. ACL-IJCNLP 2021.<br>
+In _Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Theme Paper)_. ACL-IJCNLP 2021 [Oral].<br>
 **[Nominated for Best Paper]** <br>
 [Paper](https://openreview.net/forum?id=7ZL84tVlHZN)
 
 
 **[Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots]()**  <br>
 **Samson Tan**, Shafiq Joty <br>
-In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Paper)_.  NAACL-HLT 2021. <br>
+In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Paper)_.  NAACL-HLT 2021 [Oral+Poster]. <br>
 Also in _Fifth Workshop on Computational Approaches to Linguistic Code-Switching (Rising Stars Track) @ NAACL-HLT 2021_. <br>
 [Paper](https://openreview.net/forum?id=Dqj-Ou60fg0) | [Code](https://github.com/salesforce/adversarial-polyglots) | [Data](https://github.com/salesforce/adversarial-polyglots-data)
 
@@ -29,12 +29,12 @@ _arXiv e-print_. <br>
 
 **[Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding]()**  <br>
 **Samson Tan**, Shafiq Joty, Lav R. Varshney, Min-Yen Kan <br>
-In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (Long Paper)_. EMNLP 2020. <br>
+In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (Long Paper)_. EMNLP 2020 [Oral]. <br>
 [Paper](https://arxiv.org/abs/2004.14870) | [Video](https://slideslive.com/38938886/mind-your-inflections-improving-nlp-for-nonstandard-englishes-with-baseinflection-encoding) | [Code](https://github.com/salesforce/bite)
 
 **[It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations]()**  <br>
 **Samson Tan**, Shafiq Joty, Min-Yen Kan, Richard Socher <br>
-In _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Long Paper)_. ACL 2020. <br>
+In _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Long Paper)_. ACL 2020 [Oral]. <br>
 [Paper](https://www.aclweb.org/anthology/2020.acl-main.263/) | [Blog](https://blog.einstein.ai/its-morphin-time-combating-linguistic-discrimination-with-inflectional-perturbations/) | [Video](https://slideslive.com/38928803/its-morphin-time-combating-linguistic-discrimination-with-inflectional-perturbations) | [Code](https://github.com/salesforce/morpheus)
 
 
