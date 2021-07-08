@@ -26,7 +26,7 @@ Dissertation Committee:
 * [Dirk Hovy](http://dirkhovy.com), Bocconi University
 
 
-[I am on the lookout for full-time applied research positions for 2022! My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view)
+**I am on the lookout for full-time applied research positions for 2022!** [My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view)
 
 news
 ====
