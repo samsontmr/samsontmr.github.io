@@ -10,13 +10,23 @@ redirect_from:
 
 I am a final year CS PhD candidate at the National University of Singapore and Salesforce Research, supervised by Assoc Prof Kan Min-Yen and Asst Prof Shafiq Joty. I'm extremely fortunate to be supported by Singapore's Economic Development Board and Salesforce under the [Industrial Postgraduate Programme](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base), and split my time between the [Web IR / NLP Group](https://wing.comp.nus.edu.sg) at NUS and Salesforce Research. 
 
-My research interests include linguistic variation, adversarial robustness, and methods for ethical AI development (both technical and policy); but I've also been fascinated by the puzzle of cognition for the longest time. I'm also chairing the Tokenization Working Group in the [BigScience project](bigscience.huggingface.co) with [Benoît Sagot](http://alpage.inria.fr/~sagot) from Inria.
+My current research interests include linguistic variation, adversarial robustness, and building ethical & reliable AI (both technical methods and policy instruments); but I've also been fascinated by the puzzle of cognition for the longest time. I'm also chairing the [BigScience](bigscience.huggingface.co) Tokenization Working Group with [Benoît Sagot](http://alpage.inria.fr/~sagot) from Inria.
 
-Before embarking on my PhD journey, I graduated from the Computer Science and University Scholars Programme at NUS, where I acquired my love of interdiscplinary work.
+Before embarking on my PhD journey, I graduated from the [Computer Science + University Scholars Programme](https://www.usp.nus.edu.sg) at NUS, where I acquired my love of interdiscplinary work.
 
 Outside of work, I read widely (my brain loves it, my eyes hate it), especially in philosophy, psychology, and physics. I've also been practising Chinese martial arts for a while now and just started teaching myself the piano!
 
-[I am on the lookout for full-time basic or applied research positions for 2022! My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view)
+
+Dissertation Committee:
+* [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy), National University of Singapore
+* [Shafiq Joty](https://raihanjoty.github.io), Nanyang Technological University / Salesforce Research
+* [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu), National University of Singapore
+* [Roger Zimmermann](https://www.comp.nus.edu.sg/~rogerz), National University of Singapore
+* [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley), Microsoft Research
+* [Dirk Hovy](http://dirkhovy.com), Bocconi University
+
+
+[I am on the lookout for full-time applied research positions for 2022! My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view)
 
 news
 ====
