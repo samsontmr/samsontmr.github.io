@@ -15,8 +15,7 @@ In _VentureBeat_. 2021. <br>
 **[Reliability Testing for Natural Language Processing Systems](https://openreview.net/forum?id=7ZL84tVlHZN)**  <br>
 **Samson Tan**, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan <br>
 In _Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Theme Paper)_. ACL-IJCNLP 2021 [Oral].<br>
-**[Nominated for Best Paper]** <br>
-[Paper](https://openreview.net/forum?id=7ZL84tVlHZN)
+[Paper](https://openreview.net/forum?id=7ZL84tVlHZN) **[Nominated for Best Paper]**
 
 
 **[Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots](https://openreview.net/forum?id=Dqj-Ou60fg0)**  <br>
