@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year CS PhD candidate at the National University of Singapore and Salesforce Research, supervised by Assoc Prof Kan Min-Yen and Asst Prof Shafiq Joty. I'm extremely fortunate to be supported by Singapore's Economic Development Board and Salesforce under the [Industrial Postgraduate Programme](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base), and split my time between the [Web IR / NLP Group](https://wing.comp.nus.edu.sg) at NUS and Salesforce Research. 
 
-My current research interests include linguistic variation, adversarial robustness, and building ethical & reliable AI (both technical methods and policy instruments); but I've also been fascinated by the puzzle of cognition for the longest time. I'm also chairing the [BigScience](bigscience.huggingface.co) Tokenization Working Group with [Benoît Sagot](http://alpage.inria.fr/~sagot) from Inria.
+My current research direction centers on ensuring NLP/AI systems are unbiased and reliable under real-world conditions using both technical methods and policy processes. I'm also chairing the [BigScience](bigscience.huggingface.co) Tokenization Working Group with [Benoît Sagot](http://alpage.inria.fr/~sagot) from Inria.
 
 Before embarking on my PhD journey, I graduated from the [Computer Science + University Scholars Programme](https://www.usp.nus.edu.sg) at NUS, where I acquired my love of interdiscplinary work.
 
