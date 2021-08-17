@@ -30,6 +30,7 @@ Dissertation Committee:
 
 news
 ====
+* 3-Aug-2021 - Received the Dean's Graduate Research Excellence Award from the School of Computing!
 * 20-May-2021 - Our [work on reliability testing](https://openreview.net/forum?id=7ZL84tVlHZN) was mentioned in [VentureBeat](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating)!
 * 5-May-2021 - Our [theme paper on reliability testing for NLP](https://openreview.net/forum?id=7ZL84tVlHZN) has been accepted to ACL-IJCNLP 2021 (main conference) with a nomination for the best paper award!
 * 24-Apr-2021 - I will be co-chairing the Tokenization Working Group in the [BigScience project](bigscience.huggingface.co) with [Benoît Sagot](http://alpage.inria.fr/~sagot)!
