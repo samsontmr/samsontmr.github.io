@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Academic
+* NUS Computing Dean's Graduate Research Excellence Award (2020/21)
 * NUS Computing Research Achievement Award (2019/20)
 * Salesforce-EDB Industrial Postgraduate Programme (2019--2023, fellowship-equivalent)
 * University Scholars Programme Senior Honor Roll (2016/17)
