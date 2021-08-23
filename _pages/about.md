@@ -26,10 +26,11 @@ Dissertation Committee:
 * [Dirk Hovy](http://dirkhovy.com), Bocconi University
 
 
-**I am on the lookout for full-time applied research positions for 2022!** [My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view)
+**I am on the lookout for full-time industry research positions for 2022!** [My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view)
 
 news
 ====
+* 10-Aug-2021 - Successfully defended my thesis proposal!
 * 3-Aug-2021 - Received the Dean's Graduate Research Excellence Award from the School of Computing!
 * 20-May-2021 - Our [work on reliability testing](https://openreview.net/forum?id=7ZL84tVlHZN) was mentioned in [VentureBeat](https://venturebeat.com/2021/05/20/despite-challenges-salesforce-says-chatbot-adoption-is-accelerating)!
 * 5-May-2021 - Our [theme paper on reliability testing for NLP](https://openreview.net/forum?id=7ZL84tVlHZN) has been accepted to ACL-IJCNLP 2021 (main conference) with a nomination for the best paper award!
