@@ -43,6 +43,7 @@ In _Proceedings of the 58th Annual Meeting of the Association for Computational 
 
 
 # Media Coverage
+[Four NUS Computing PhD students receive Dean’s Graduate Research Excellence Award](https://www.comp.nus.edu.sg/news/2021-dean-s-graduate-research-excellence-award/). _NUS Computing News_. 2021.
 [The race to understand the exhilarating, dangerous world of language AI](https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project). _MIT Technology Review_. 2021. (BigScience)
 
 [Un projet géant pour faire parler une intelligence artificielle, et faire mieux que Google](https://www.lemonde.fr/sciences/article/2021/05/04/un-projet-geant-pour-faire-parler-une-intelligence-artificielle-et-faire-mieux-que-google_6079004_1650684.html). _Le Monde_. 2021. (BigScience)
