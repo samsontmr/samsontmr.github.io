@@ -8,9 +8,6 @@ author_profile: true
 * Keng Ji Chow <br>
   *Undergraduate Dissertation on Vision-Language Models* <br>
   National University of Singapore | Computer Science | 2021--2022
-* Benjamin Tan Kuan Wei <br>
-  *Undergraduate Dissertation on Dialectal Variation*  <br>
-  National University of Singapore | Computer Science | 2021--2022
 * Emil Kuah Kiat Yeow  <br>
   *Undergraduate Research + Honors Thesis on Language Processing in Humans and Computational Models* <br>
   National University of Singapore | Psycholinguistics | 2021--2022
