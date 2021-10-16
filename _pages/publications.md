@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2021
 
+**[Causally Estimating the Sensitivity of Neural NLP Models to Spurious Features](https://arxiv.org/abs/2110.07159)** <br>
+Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
+_arXiv e-print_. <br>
+[Paper](https://arxiv.org/abs/2110.07159)
+
 **[NLP needs to be open. 500+ researchers are trying to make it happen](https://venturebeat.com/2021/07/14/nlp-needs-to-be-open-500-researchers-are-trying-to-make-it-happen/)**  <br>
 Yacine Jernite, Matthias Gallé, Victor Sanh, **Samson Tan**, Thomas Wolf, Suzana Ilic, Margaret Mitchell  (random order)<br>
 In _VentureBeat_. 2021. <br>
@@ -44,6 +49,7 @@ In _Proceedings of the 58th Annual Meeting of the Association for Computational 
 
 # Media Coverage
 [Four NUS Computing PhD students receive Dean’s Graduate Research Excellence Award](https://www.comp.nus.edu.sg/news/2021-dean-s-graduate-research-excellence-award/). _NUS Computing News_. 2021.
+
 [The race to understand the exhilarating, dangerous world of language AI](https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project). _MIT Technology Review_. 2021. (BigScience)
 
 [Un projet géant pour faire parler une intelligence artificielle, et faire mieux que Google](https://www.lemonde.fr/sciences/article/2021/05/04/un-projet-geant-pour-faire-parler-une-intelligence-artificielle-et-faire-mieux-que-google_6079004_1650684.html). _Le Monde_. 2021. (BigScience)
