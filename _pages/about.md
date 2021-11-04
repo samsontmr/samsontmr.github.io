@@ -30,6 +30,7 @@ Dissertation Committee:
 
 news
 ====
+* 29-Oct-2021 - I've been nominated and selected to participate in the Global Young Scientists Summit 2022!
 * 27-Aug-2021 - Featured in a [news article](https://www.comp.nus.edu.sg/news/2021-dean-s-graduate-research-excellence-award) by our School of Computing!
 * 10-Aug-2021 - Successfully defended my thesis proposal!
 * 3-Aug-2021 - Received the Dean's Graduate Research Excellence Award from the School of Computing!
