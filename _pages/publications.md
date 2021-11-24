@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2021
 
+**[TraVLR: Now You See It, Now You Don't! Evaluating Cross-Modal Transfer of Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756)** <br>
+Keng Ji Chow*, **Samson Tan***, Min-Yen Kan (*equal contribution) <br>
+_arXiv e-print_. <br>
+[Paper](https://arxiv.org/abs/2111.10756)
+
 **[Causally Estimating the Sensitivity of Neural NLP Models to Spurious Features](https://arxiv.org/abs/2110.07159)** <br>
 Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
 _arXiv e-print_. <br>
