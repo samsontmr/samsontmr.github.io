@@ -7,6 +7,12 @@ author_profile: true
 
 ## 2021
 
+
+**[NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](http://arxiv.org/abs/2112.02721)** <br>
+Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, Aadesh Gupta, Zhenhao Li, Saad Mahamood,\\ Abinaya Mahendiran, Simon Mille, Ashish Srivastava, **Samson Tan**, Tongshuang Wu, Jascha Sohl-Dickstein, *et al.* (Authors listed here form the steering committee.) <br>
+_arXiv e-print_. <br>
+[Paper](http://arxiv.org/abs/2112.02721)
+
 **[TraVLR: Now You See It, Now You Don't! Evaluating Cross-Modal Transfer of Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756)** <br>
 Keng Ji Chow*, **Samson Tan***, Min-Yen Kan (*equal contribution) <br>
 _arXiv e-print_. <br>
