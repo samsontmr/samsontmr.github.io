@@ -18,10 +18,10 @@ Keng Ji Chow*, **Samson Tan***, Min-Yen Kan (*equal contribution) <br>
 _arXiv e-print_. <br>
 [Paper](https://arxiv.org/abs/2111.10756)
 
-**[Causally Estimating the Sensitivity of Neural NLP Models to Spurious Features](https://arxiv.org/abs/2110.07159)** <br>
+**[Interpreting the Robustness of Neural NLP Models to Textual Perturbations](https://openreview.net/forum?id=ONfJZSIkLli)** <br>
 Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
-_arXiv e-print_. <br>
-[Paper](https://arxiv.org/abs/2110.07159)
+_Under review_. <br>
+[Paper](https://openreview.net/forum?id=ONfJZSIkLli)
 
 **[NLP needs to be open. 500+ researchers are trying to make it happen](https://venturebeat.com/2021/07/14/nlp-needs-to-be-open-500-researchers-are-trying-to-make-it-happen/)**  <br>
 Yacine Jernite, Matthias Gallé, Victor Sanh, **Samson Tan**, Thomas Wolf, Suzana Ilic, Margaret Mitchell  (random order)<br>
