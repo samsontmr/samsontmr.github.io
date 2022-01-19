@@ -20,7 +20,6 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 Dissertation Committee:
 * [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy), National University of Singapore
 * [Shafiq Joty](https://raihanjoty.github.io), Nanyang Technological University / Salesforce Research
-* [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu), National University of Singapore
 * [Roger Zimmermann](https://www.comp.nus.edu.sg/~rogerz), National University of Singapore
 * [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley), Microsoft Research
 * [Dirk Hovy](http://dirkhovy.com), Bocconi University
