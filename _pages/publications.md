@@ -11,7 +11,7 @@ Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
 In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Paper)_. ACL Findings 2022. <br>
 [Paper](https://openreview.net/forum?id=ONfJZSIkLli)
 
-**[BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialogue Systems.]()**
+**[BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialogue Systems.]()** <br>
 Guangsen Wang, **Samson Tan**, Shafiq Joty, Gang Wu, Feihong Wu, Steven Hoi. <br>
 _Under review_.
 
@@ -23,8 +23,8 @@ Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, Aadesh Gupta, Zhenhao Li, S
 _arXiv e-print_. <br>
 [Paper](http://arxiv.org/abs/2112.02721)
 
-**[Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP](https://arxiv.org/abs/2112.10508)**
-Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, Samson Tan <br>
+**[Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP](https://arxiv.org/abs/2112.10508)**<br>
+Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, **Samson Tan** <br>
 _arXiv e-print_. <br>
 [Paper](https://arxiv.org/abs/2112.10508)
 
