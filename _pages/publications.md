@@ -23,6 +23,11 @@ Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, Aadesh Gupta, Zhenhao Li, S
 _arXiv e-print_. <br>
 [Paper](http://arxiv.org/abs/2112.02721)
 
+**Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP**
+Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, Samson Tan <br>
+_arXiv e-print_. <br>
+[Paper](https://arxiv.org/abs/2112.10508)
+
 **[TraVLR: Now You See It, Now You Don't! Evaluating Cross-Modal Transfer of Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756)** <br>
 Keng Ji Chow*, **Samson Tan***, Min-Yen Kan (*equal contribution) <br>
 _arXiv e-print_. <br>
