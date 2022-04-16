@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 ## 2022
+
+
+**[Data Governance in the Age of Large-Scale Data-Driven Language Technology]()** <br>
+Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valentin Danchev, **Samson Tan**, Alexandra Sasha Luccioni, Nishant Subramani, Isaac Johnson, Gérard Dupont, Jesse Dodge, Kyle Lo, Zeerak Talat, Dragomir Radev, Aaron Gokaslan, Somaieh Nikpoor, Peter Henderson, Rishi Bommasani, Margaret Mitchell <br>
+In _ACM Conference on Fairness, Accountability, and Transparency 2022_. FAccT 2022. <br>
+
+
+**[You Reap What You Sow: On the Challenges of Bias Evaluation Under Multilingual Settings](https://openreview.net/forum?id=rK-7NhfSIW5)** <br>
+Zeerak Talat, Aurélie Névéol, Stella Biderman, Miruna Clinciu, Manan Dey, Shayne Longpre, Sasha Luccioni, Maraim Masoud, Margaret Mitchell, Dragomir Radev, Shanya Sharma, Arjun Subramonian, Jaesung Tae, **Samson Tan**, Deepak Tunuguntla, Oskar van der Wal <br>
+In _Challenges & Perspectives in Creating Large Language Models @ ACL 2022_. <br>
+[Paper](https://openreview.net/forum?id=rK-7NhfSIW5)
+
 **[Interpreting the Robustness of Neural NLP Models to Textual Perturbations](https://openreview.net/forum?id=ONfJZSIkLli)** <br>
 Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
 In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Paper)_. ACL Findings 2022. <br>
