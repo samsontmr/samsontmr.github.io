@@ -8,27 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year CS PhD candidate at the National University of Singapore and Salesforce Research, supervised by Assoc Prof Kan Min-Yen and Asst Prof Shafiq Joty. I'm extremely fortunate to be supported by Singapore's Economic Development Board and Salesforce under the [Industrial Postgraduate Programme](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base), and split my time between the [Web IR / NLP Group](https://wing.comp.nus.edu.sg) at NUS and Salesforce Research. 
-
-My current research direction centers on ensuring NLP/AI systems are unbiased and reliable under real-world conditions using both technical methods and policy processes. I'm also chairing the [BigScience](bigscience.huggingface.co) Tokenization Working Group with [Benoît Sagot](http://alpage.inria.fr/~sagot) from Inria.
-
-Before embarking on my PhD journey, I graduated from the [Computer Science + University Scholars Programme](https://www.usp.nus.edu.sg) at NUS, where I acquired my love of interdiscplinary work.
+I am an Applied Scientist at AWS AI Research & Education, working on improving the robustness of large-scale pretrained representations. I'm also chairing the [BigScience](bigscience.huggingface.co) Tokenization Working Group with [Benoît Sagot](http://alpage.inria.fr/~sagot) from Inria.
 
 Outside of work, I read widely (my brain loves it, my eyes hate it), especially in philosophy, psychology, and physics. I've also been practising Chinese martial arts for a while now and just started teaching myself the piano!
 
 
-Dissertation Committee:
-* [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy), National University of Singapore
-* [Shafiq Joty](https://raihanjoty.github.io), Nanyang Technological University / Salesforce Research
-* [Roger Zimmermann](https://www.comp.nus.edu.sg/~rogerz), National University of Singapore
-* [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley), Microsoft Research
-* [Dirk Hovy](http://dirkhovy.com), Bocconi University
 
-
-**I am on the lookout for full-time industry research positions for 2022!** [My CV is available here.](https://drive.google.com/file/d/1ZZ9BEfZTWCSXrzNG2vZ97tyeG_TdKpJ1/view) Recommendations from people I have worked with are publicly available on my [LinkedIn page](https://www.linkedin.com/in/samsontmr).
 
 news
 ====
+* 7-Apr-2022 - Two BigScience papers I contributed to were accepted to Challenges & Perspectives in Creating Large Language Models @ ACL 2022 and FAccT 2022!
+* 4-Apr-2022 - Submitted my thesis and joined AWS AI Research & Education as an Applied Scientist!
+* 23-Feb-2022 - A [paper on robustness](https://openreview.net/forum?id=ONfJZSIkLli) I helped supervise was accepted to ACL Findings 2022!
 * 20-Dec-2021 - First work out of my working group at BigScience: [A brief history of tokenization](https://arxiv.org/abs/2112.10508)!
 * 6-Dec-2021 - New preprints on [cross-modal transfer](https://arxiv.org/abs/2111.10756) and [language augmentation](https://arxiv.org/abs/2112.02721)!
 * 29-Oct-2021 - I've been nominated and selected to participate in the Global Young Scientists Summit 2022!
