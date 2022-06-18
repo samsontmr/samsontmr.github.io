@@ -13,12 +13,12 @@ Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valenti
 In _ACM Conference on Fairness, Accountability, and Transparency 2022_. FAccT 2022. <br>
 
 
-**[You Reap What You Sow: On the Challenges of Bias Evaluation Under Multilingual Settings](https://openreview.net/forum?id=rK-7NhfSIW5)** <br>
+**[You Reap What You Sow: On the Challenges of Bias Evaluation Under Multilingual Settings](https://aclanthology.org/2022.bigscience-1.3)** <br>
 Zeerak Talat, Aurélie Névéol, Stella Biderman, Miruna Clinciu, Manan Dey, Shayne Longpre, Sasha Luccioni, Maraim Masoud, Margaret Mitchell, Dragomir Radev, Shanya Sharma, Arjun Subramonian, Jaesung Tae, **Samson Tan**, Deepak Tunuguntla, Oskar van der Wal <br>
 In _Challenges & Perspectives in Creating Large Language Models @ ACL 2022_. <br>
-[Paper](https://openreview.net/forum?id=rK-7NhfSIW5)
+[Paper](https://aclanthology.org/2022.bigscience-1.3/)
 
-**[Interpreting the Robustness of Neural NLP Models to Textual Perturbations](https://openreview.net/forum?id=ONfJZSIkLli)** <br>
+**[Interpreting the Robustness of Neural NLP Models to Textual Perturbations](https://aclanthology.org/2022.findings-acl.315)** <br>
 Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
 In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Paper)_. ACL Findings 2022. <br>
 [Paper](https://aclanthology.org/2022.findings-acl.315)
@@ -50,17 +50,17 @@ Yacine Jernite, Matthias Gallé, Victor Sanh, **Samson Tan**, Thomas Wolf, Suzan
 In _VentureBeat_. 2021. <br>
 [Article](https://venturebeat.com/2021/07/14/nlp-needs-to-be-open-500-researchers-are-trying-to-make-it-happen/)
 
-**[Reliability Testing for Natural Language Processing Systems](https://openreview.net/forum?id=7ZL84tVlHZN)**  <br>
+**[Reliability Testing for Natural Language Processing Systems](https://aclanthology.org/2021.acl-long.321)**  <br>
 **Samson Tan**, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan <br>
 In _Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Long Paper)_. ACL-IJCNLP 2021 [Oral].<br>
 [Paper](https://aclanthology.org/2021.acl-long.321) | [Video](https://www.youtube.com/watch?v=aJkv-IwYhgA) **[Nominated for Best Paper]**
 
 
-**[Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots](https://openreview.net/forum?id=Dqj-Ou60fg0)**  <br>
+**[Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots](https://aclanthology.org/2021.naacl-main.282)**  <br>
 **Samson Tan**, Shafiq Joty <br>
 In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Paper)_.  NAACL-HLT 2021 [Oral+Poster]. <br>
 Also in _Fifth Workshop on Computational Approaches to Linguistic Code-Switching (Rising Stars Track) @ NAACL-HLT 2021_. <br>
-[Paper](https://aclanthology.org/2021.naacl-main.282) | [Video](https://www.youtube.com/watch?v=C_N-AnxQsrc) | [Code](https://github.com/salesforce/adversarial-polyglots) | [Data](https://github.com/salesforce/adversarial-polyglots-data)
+[Paper](https://aclanthology.org/2021.naacl-main.282) | [Blog](https://blog.salesforceairesearch.com/code-mixing) | [Video](https://www.youtube.com/watch?v=C_N-AnxQsrc) | [Code](https://github.com/salesforce/adversarial-polyglots) | [Data](https://github.com/salesforce/adversarial-polyglots-data)
 
 **[Robustness Gym: Unifying the NLP Evaluation Landscape](https://arxiv.org/abs/2101.04840)**  <br>
 Karan Goel, Nazneen Rajani, Jesse Vig, **Samson Tan**, Jason Wu, Stephan Zheng, Caiming Xiong, Mohit Bansal, Christopher Ré <br>
@@ -69,7 +69,7 @@ _arXiv e-print_. <br>
 
 ## 2020
 
-**[Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding](https://arxiv.org/abs/2004.14870)**  <br>
+**[Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding](https://aclanthology.org/2020.emnlp-main.455)**  <br>
 **Samson Tan**, Shafiq Joty, Lav R. Varshney, Min-Yen Kan <br>
 In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (Long Paper)_. EMNLP 2020 [Oral]. <br>
 [Paper](https://aclanthology.org/2020.emnlp-main.455) | [Video](https://slideslive.com/38938886/mind-your-inflections-improving-nlp-for-nonstandard-englishes-with-baseinflection-encoding) | [Code](https://github.com/salesforce/bite)
