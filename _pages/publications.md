@@ -21,7 +21,7 @@ In _Challenges & Perspectives in Creating Large Language Models @ ACL 2022_. <br
 **[Interpreting the Robustness of Neural NLP Models to Textual Perturbations](https://openreview.net/forum?id=ONfJZSIkLli)** <br>
 Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
 In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Paper)_. ACL Findings 2022. <br>
-[Paper](https://openreview.net/forum?id=ONfJZSIkLli)
+[Paper](https://aclanthology.org/2022.findings-acl.315)
 
 **[BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialogue Systems.]()** <br>
 Guangsen Wang, **Samson Tan**, Shafiq Joty, Gang Wu, Feihong Wu, Steven Hoi. <br>
@@ -53,14 +53,14 @@ In _VentureBeat_. 2021. <br>
 **[Reliability Testing for Natural Language Processing Systems](https://openreview.net/forum?id=7ZL84tVlHZN)**  <br>
 **Samson Tan**, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan <br>
 In _Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Long Paper)_. ACL-IJCNLP 2021 [Oral].<br>
-[Paper](https://openreview.net/forum?id=7ZL84tVlHZN) | [Video](https://www.youtube.com/watch?v=aJkv-IwYhgA) **[Nominated for Best Paper]**
+[Paper](https://aclanthology.org/2021.acl-long.321) | [Video](https://www.youtube.com/watch?v=aJkv-IwYhgA) **[Nominated for Best Paper]**
 
 
 **[Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots](https://openreview.net/forum?id=Dqj-Ou60fg0)**  <br>
 **Samson Tan**, Shafiq Joty <br>
 In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Paper)_.  NAACL-HLT 2021 [Oral+Poster]. <br>
 Also in _Fifth Workshop on Computational Approaches to Linguistic Code-Switching (Rising Stars Track) @ NAACL-HLT 2021_. <br>
-[Paper](https://openreview.net/forum?id=Dqj-Ou60fg0) | [Video](https://www.youtube.com/watch?v=C_N-AnxQsrc) | [Code](https://github.com/salesforce/adversarial-polyglots) | [Data](https://github.com/salesforce/adversarial-polyglots-data)
+[Paper](https://aclanthology.org/2021.naacl-main.282) | [Video](https://www.youtube.com/watch?v=C_N-AnxQsrc) | [Code](https://github.com/salesforce/adversarial-polyglots) | [Data](https://github.com/salesforce/adversarial-polyglots-data)
 
 **[Robustness Gym: Unifying the NLP Evaluation Landscape](https://arxiv.org/abs/2101.04840)**  <br>
 Karan Goel, Nazneen Rajani, Jesse Vig, **Samson Tan**, Jason Wu, Stephan Zheng, Caiming Xiong, Mohit Bansal, Christopher Ré <br>
@@ -72,7 +72,7 @@ _arXiv e-print_. <br>
 **[Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding](https://arxiv.org/abs/2004.14870)**  <br>
 **Samson Tan**, Shafiq Joty, Lav R. Varshney, Min-Yen Kan <br>
 In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (Long Paper)_. EMNLP 2020 [Oral]. <br>
-[Paper](https://arxiv.org/abs/2004.14870) | [Video](https://slideslive.com/38938886/mind-your-inflections-improving-nlp-for-nonstandard-englishes-with-baseinflection-encoding) | [Code](https://github.com/salesforce/bite)
+[Paper](https://aclanthology.org/2020.emnlp-main.455) | [Video](https://slideslive.com/38938886/mind-your-inflections-improving-nlp-for-nonstandard-englishes-with-baseinflection-encoding) | [Code](https://github.com/salesforce/bite)
 
 **[It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations](https://www.aclweb.org/anthology/2020.acl-main.263)**  <br>
 **Samson Tan**, Shafiq Joty, Min-Yen Kan, Richard Socher <br>
