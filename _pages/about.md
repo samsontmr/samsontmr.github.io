@@ -17,9 +17,12 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 
 news
 ====
+* 21-Sep-2022 - One paper on a chatbot test suite (BotSIM) accepted to EMNLP 2022 and one paper on authorship attribution accepted to AACL-IJCNLP 2022!
 * 7-Apr-2022 - Two BigScience papers I contributed to were accepted to Challenges & Perspectives in Creating Large Language Models @ ACL 2022 and FAccT 2022!
 * 4-Apr-2022 - Submitted my thesis and joined AWS AI Research & Education as an Applied Scientist!
 * 23-Feb-2022 - A [paper on robustness](https://openreview.net/forum?id=ONfJZSIkLli) I helped supervise was accepted to ACL Findings 2022!
+
+<!---
 * 20-Dec-2021 - First work out of my working group at BigScience: [A brief history of tokenization](https://arxiv.org/abs/2112.10508)!
 * 6-Dec-2021 - New preprints on [cross-modal transfer](https://arxiv.org/abs/2111.10756) and [language augmentation](https://arxiv.org/abs/2112.02721)!
 * 29-Oct-2021 - I've been nominated and selected to participate in the Global Young Scientists Summit 2022!
@@ -32,8 +35,6 @@ news
 * 10-Mar-2021 - Our [long paper on adversarial code-mixing](https://openreview.net/forum?id=Dqj-Ou60fg0) has been accepted to NAACL-HLT 2021 and the Rising Stars Track of CALCS 2021!
 * 3-Feb-2021 - I will be part of the ACL 2021 Ethics Review Committee and Program Committee (Ethics in NLP)!
 * 5-Jan-2021 - My research was featured in the National Research Foundation's [Research, Innovation and Enterprise 2025](https://www.nrf.gov.sg/rie2025-plan/sustaining-a-strong-research-manpower-base) handbook!
-
-<!---
 * 14-Sep-2020 - Our paper on Base-Inflection Encoding has been accepted to EMNLP 2020!)  
 * 05-Aug-2020 - Received a Research Achievement Award from the School of Computing!
 * 04-Apr-2020 - My first paper ever (on linguistic biases and robustness to inflectional variation) has been accepted to ACL 2020!
