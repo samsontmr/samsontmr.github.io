@@ -8,6 +8,16 @@ author_profile: true
 ## 2022
 
 
+**[Whodunit? Learning to Contrast for Authorship Attribution]()** <br>
+Bo Ai, Yuchen Wang, Yugin Tan, **Samson Tan** <br>
+In _Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Long Paper)_. AACL-IJCNLP 2022. <br>
+
+
+**[BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialogue Systems.]()** <br>
+Guangsen Wang, **Samson Tan**, Shafiq Joty, Gang Wu, Jimmy Au, Steven Hoi. <br>
+In _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (System Demonstration)_. EMNLP 2022. <br>
+
+
 **[Data Governance in the Age of Large-Scale Data-Driven Language Technology]()** <br>
 Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valentin Danchev, **Samson Tan**, Alexandra Sasha Luccioni, Nishant Subramani, Isaac Johnson, Gérard Dupont, Jesse Dodge, Kyle Lo, Zeerak Talat, Dragomir Radev, Aaron Gokaslan, Somaieh Nikpoor, Peter Henderson, Rishi Bommasani, Margaret Mitchell <br>
 In _ACM Conference on Fairness, Accountability, and Transparency 2022_. FAccT 2022. <br>
@@ -23,9 +33,6 @@ Yunxiang Zhang, Liangming Pan, **Samson Tan**, Min-Yen Kan <br>
 In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Paper)_. ACL Findings 2022. <br>
 [Paper](https://aclanthology.org/2022.findings-acl.315)
 
-**[BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialogue Systems.]()** <br>
-Guangsen Wang, **Samson Tan**, Shafiq Joty, Gang Wu, Feihong Wu, Steven Hoi. <br>
-_Under review_.
 
 ## 2021
 
