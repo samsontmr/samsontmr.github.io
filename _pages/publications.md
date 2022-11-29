@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2022
 
+**[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)** <br>
+BigScience Workshop, Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, Suzana Ilić, Daniel Hesslow, Roman Castagné, Alexandra Sasha Luccioni, François Yvon, Matthias Gallé, Jonathan Tow, Alexander M. Rush, Stella Biderman, Albert Webson, Pawan Sasanka Ammanamanchi, Thomas Wang, Benoît Sagot, Niklas Muennighoff, Albert Villanova del Moral, Olatunji Ruwase, Rachel Bawden, Stas Bekman, Angelina McMillan-Major, Iz Beltagy, Huu Nguyen, Lucile Saulnier, **Samson Tan,** Pedro Ortiz Suarez, Victor Sanh, Hugo Laurençon, Yacine Jernite, Julien Launay, Margaret Mitchell, Colin Raffel, et al.  <br>
+(Authors listed above are main contributors and are in random order aside from the first two.) <br>
+_arXiv e-print_. <br>
+[Paper](https://arxiv.org/abs/2211.05100)
 
 **[Whodunit? Learning to Contrast for Authorship Attribution]()** <br>
 Bo Ai, Yuchen Wang, Yugin Tan, **Samson Tan** <br>
