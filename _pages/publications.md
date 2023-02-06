@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2022
 
+**[TraVLR: Now You See It, Now You Don't! A Bimodal Dataset for Evaluating Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756)** <br>
+Keng Ji Chow*, __Samson Tan*__, Min-Yen Kan (*equal contribution) <br>
+In _Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (Long Paper)_. EACL 2023. <br>
+[Paper](https://arxiv.org/abs/2111.10756)
+
 **[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)** <br>
 BigScience Workshop, Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, Suzana Ilić, Daniel Hesslow, Roman Castagné, Alexandra Sasha Luccioni, François Yvon, Matthias Gallé, Jonathan Tow, Alexander M. Rush, Stella Biderman, Albert Webson, Pawan Sasanka Ammanamanchi, Thomas Wang, Benoît Sagot, Niklas Muennighoff, Albert Villanova del Moral, Olatunji Ruwase, Rachel Bawden, Stas Bekman, Angelina McMillan-Major, Iz Beltagy, Huu Nguyen, Lucile Saulnier, **Samson Tan,** Pedro Ortiz Suarez, Victor Sanh, Hugo Laurençon, Yacine Jernite, Julien Launay, Margaret Mitchell, Colin Raffel, et al.  <br>
 (Authors listed above are main contributors and are in random order aside from the first two.) <br>
@@ -51,11 +56,6 @@ _arXiv e-print_. <br>
 Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, **Samson Tan** <br>
 _arXiv e-print_. <br>
 [Paper](https://arxiv.org/abs/2112.10508)
-
-**[TraVLR: Now You See It, Now You Don't! Evaluating Cross-Modal Transfer of Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756)** <br>
-Keng Ji Chow*, __Samson Tan*__, Min-Yen Kan (*equal contribution) <br>
-_arXiv e-print_. <br>
-[Paper](https://arxiv.org/abs/2111.10756)
 
 **[NLP needs to be open. 500+ researchers are trying to make it happen](https://venturebeat.com/2021/07/14/nlp-needs-to-be-open-500-researchers-are-trying-to-make-it-happen/)**  <br>
 Yacine Jernite, Matthias Gallé, Victor Sanh, **Samson Tan**, Thomas Wolf, Suzana Ilic, Margaret Mitchell  (random order)<br>
