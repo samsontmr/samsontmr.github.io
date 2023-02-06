@@ -17,6 +17,7 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 
 news
 ====
+* 21-Jan-2023 - Our [dataset for evaluating cross-modal transfer](https://arxiv.org/abs/2111.10756) was accepted to the main conference of EACL 2023!
 * 21-Sep-2022 - One paper on a chatbot test suite (BotSIM) accepted to EMNLP 2022 and one paper on authorship attribution accepted to AACL-IJCNLP 2022!
 * 7-Apr-2022 - Two BigScience papers I contributed to were accepted to Challenges & Perspectives in Creating Large Language Models @ ACL 2022 and FAccT 2022!
 * 4-Apr-2022 - Submitted my thesis and joined AWS AI Research & Education as an Applied Scientist!
