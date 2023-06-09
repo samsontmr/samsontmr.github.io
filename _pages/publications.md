@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2022
+## 2023
 
 **[TraVLR: Now You See It, Now You Don't! A Bimodal Dataset for Evaluating Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756)** <br>
 Keng Ji Chow*, __Samson Tan*__, Min-Yen Kan (*equal contribution) <br>
 In _Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (Long Paper)_. EACL 2023. <br>
 [Paper](https://arxiv.org/abs/2111.10756)
+
+
+**[NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://nejlt.ep.liu.se/article/view/4725)** <br>
+Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, Aadesh Gupta, Zhenhao Li, Saad Mahamood, Abinaya Mahendiran, Simon Mille, Ashish Srivastava, **Samson Tan**, Tongshuang Wu, Jascha Sohl-Dickstein, *et al.* (Authors listed here form the steering committee.) <br>
+In _Northern European Journal of Language Technology. Vol. 9 No. 1_. NEJLT 2023. <br>
+[Paper](https://nejlt.ep.liu.se/article/view/4725)
+
+## 2022
 
 **[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)** <br>
 BigScience Workshop, Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, Suzana Ilić, Daniel Hesslow, Roman Castagné, Alexandra Sasha Luccioni, François Yvon, Matthias Gallé, Jonathan Tow, Alexander M. Rush, Stella Biderman, Albert Webson, Pawan Sasanka Ammanamanchi, Thomas Wang, Benoît Sagot, Niklas Muennighoff, Albert Villanova del Moral, Olatunji Ruwase, Rachel Bawden, Stas Bekman, Angelina McMillan-Major, Iz Beltagy, Huu Nguyen, Lucile Saulnier, **Samson Tan,** Pedro Ortiz Suarez, Victor Sanh, Hugo Laurençon, Yacine Jernite, Julien Launay, Margaret Mitchell, Colin Raffel, et al.  <br>
@@ -23,10 +31,10 @@ Bo Ai, Yuchen Wang, Yugin Tan, **Samson Tan** <br>
 In _Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Long Paper)_. AACL-IJCNLP 2022. <br>
 
 
-**[BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialogue Systems.]()** <br>
+**[BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialogue Systems](https://aclanthology.org/2022.emnlp-demos.18)** <br>
 Guangsen Wang, **Samson Tan**, Shafiq Joty, Gang Wu, Jimmy Au, Steven Hoi. <br>
 In _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (System Demonstration)_. EMNLP 2022. <br>
-
+[Paper](https://aclanthology.org/2022.emnlp-demos.18) | [Code](https://github.com/salesforce/BotSIM)
 
 **[Data Governance in the Age of Large-Scale Data-Driven Language Technology]()** <br>
 Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valentin Danchev, **Samson Tan**, Alexandra Sasha Luccioni, Nishant Subramani, Isaac Johnson, Gérard Dupont, Jesse Dodge, Kyle Lo, Zeerak Talat, Dragomir Radev, Aaron Gokaslan, Somaieh Nikpoor, Peter Henderson, Rishi Bommasani, Margaret Mitchell <br>
@@ -45,12 +53,6 @@ In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Pa
 
 
 ## 2021
-
-
-**[NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](http://arxiv.org/abs/2112.02721)** <br>
-Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, Aadesh Gupta, Zhenhao Li, Saad Mahamood, Abinaya Mahendiran, Simon Mille, Ashish Srivastava, **Samson Tan**, Tongshuang Wu, Jascha Sohl-Dickstein, *et al.* (Authors listed here form the steering committee.) <br>
-_arXiv e-print_. <br>
-[Paper](http://arxiv.org/abs/2112.02721)
 
 **[Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP](https://arxiv.org/abs/2112.10508)**<br>
 Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, **Samson Tan** <br>
