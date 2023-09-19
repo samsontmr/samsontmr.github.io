@@ -7,6 +7,12 @@ author_profile: true
 
 ## 2023
 
+**[ReCode: Robustness Evaluation of Code Generation Models](https://aclanthology.org/2023.acl-long.773)** <br>
+Shiqi Wang*, Zheng Li*, Haifeng Qian, Chenghao Yang, Zijian Wang, Mingyue Shang, Varun Kumar, __Samson Tan__,
+Baishakhi Ray, Parminder Bhatia, Ramesh Nallapati, Murali Krishna Ramanathan, Dan Roth, Bing Xiang. <br>
+In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Long Paper)_. ACL 2023. <br>
+[Paper](https://aclanthology.org/2023.acl-long.773)
+
 **[TraVLR: Now You See It, Now You Don't! A Bimodal Dataset for Evaluating Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756)** <br>
 Keng Ji Chow*, __Samson Tan*__, Min-Yen Kan (*equal contribution) <br>
 In _Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (Long Paper)_. EACL 2023. <br>
