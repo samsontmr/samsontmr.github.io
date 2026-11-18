@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist at AWS AI Research & Education, working on improving the robustness of large-scale pretrained representations. I'm also chairing the [BigScience](bigscience.huggingface.co) Tokenization Working Group with [Benoît Sagot](http://alpage.inria.fr/~sagot) from Inria.
+I am currently a Staff Research Scientist at Reddit on the foundation model team, leading pretraining and mid-training.
+
+Previously I was a Senior Applied Scientist at AWS AI Research & Education then AGI Foundations, where I worked on pretraining, experimentation methodology, and robustness. I'm particularly excited by work that enables AI to augment humans better, and pushing (machine) systems to their limit. I'm particularly good at picking 
 
 Outside of work, I read widely (my brain loves it, my eyes hate it), especially in philosophy, psychology, and physics. I've also been practising Chinese martial arts for a while now and just started teaching myself the piano!
 
