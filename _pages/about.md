@@ -10,7 +10,9 @@ redirect_from:
 
 I am currently a Staff Research Scientist at Reddit on the foundation model team, leading pretraining and mid-training.
 
-Previously I was a Senior Applied Scientist at AWS AI Research & Education then AGI Foundations, where I worked on pretraining, experimentation methodology, and robustness. I'm particularly excited by work that enables AI to augment humans better, and pushing (machine) systems to their limit. I'm particularly good at picking 
+Previously I was a Senior Applied Scientist at AWS AI Research & Education then AGI Foundations, where I worked on pretraining, experimentation methodology, and robustness. Before that, I was an Industrial PhD student at Salesforce Research Asia, advised by Min-Yen Kan and Shafiq Joty.
+
+I'm particularly excited by work that enables AI to augment humans better and pushing (machine) systems to their limit. I'm particularly good at picking up new domains/skills rapidly (I LOVE learning new things), balancing good science/engineering with shipping, and spotting issues in data.
 
 Outside of work, I read widely (my brain loves it, my eyes hate it), especially in philosophy, psychology, and physics. I've also been practising Chinese martial arts for a while now and just started teaching myself the piano!
 
@@ -19,6 +21,8 @@ Outside of work, I read widely (my brain loves it, my eyes hate it), especially 
 
 news
 ====
+* Apr 2026 - Joined Reddit's foundation model team as a founding team member and the first research scientist hire (leading pretraining/mid-training)!
+* Oct-2025 - Promoted to Senior Applied Scientist in the AGI Foundations team!
 * 21-Jan-2023 - Our [dataset for evaluating cross-modal transfer](https://arxiv.org/abs/2111.10756) was accepted to the main conference of EACL 2023!
 * 21-Sep-2022 - One paper on a chatbot test suite (BotSIM) accepted to EMNLP 2022 and one paper on authorship attribution accepted to AACL-IJCNLP 2022!
 * 7-Apr-2022 - Two BigScience papers I contributed to were accepted to Challenges & Perspectives in Creating Large Language Models @ ACL 2022 and FAccT 2022!
